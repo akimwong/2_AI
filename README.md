@@ -1,2 +1,2 @@
 # 2_AI
-Not projects yet, practicing in the playground.
+Currently practicing and improving skills in the playground; no completed projects yet.
