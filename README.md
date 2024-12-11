@@ -1,2 +1,2 @@
 # 2_AI
-Projects and practices related to AI
+Not projects yet, practicing in the playground.
