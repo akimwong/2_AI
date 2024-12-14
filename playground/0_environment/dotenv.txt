@@ -1,0 +1,8 @@
+# API CREDS
+API_KEY_1=ABC123 # KEY FOR GOOGLE
+USERNAME1="Carlos Wong"
+ADDRESS1='123 Fake St
+My Town MW'
+ADDRESS2="456 Fake St\nMy Town MW"
+USERNAME2="CarlosWong"
+EMAIL=${USERNAME2}@gmail.com
