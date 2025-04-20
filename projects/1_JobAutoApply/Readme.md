@@ -19,8 +19,10 @@ JobAutoApply/
 │ ├── profile_manager.py # Pinecone vector storage
 │ └── initial_filter_keywords.py # Keyword lists
 ├── profiles/
-│ ├── profile_eng.json # English professional profile
-│ └── profile_esp.json # Spanish professional profile
+├── profile_eng.json # English professional profile
+├── profile_esp.json # Spanish professional profile
 ├── main.py # Orchestration script
+├── token.json # Token for access to LinkedIn
+├── credentials.json # API keys
 └── requirements.txt # Python dependencies
 ```
