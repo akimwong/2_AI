@@ -18,7 +18,6 @@ JobAutoApply/
 │ ├── linkedin_utils.py # Selenium LinkedIn scraper
 │ ├── profile_manager.py # Pinecone vector storage
 │ └── initial_filter_keywords.py # Keyword lists
-├── profiles/
 ├── profile_eng.json # English professional profile
 ├── profile_esp.json # Spanish professional profile
 ├── main.py # Orchestration script
