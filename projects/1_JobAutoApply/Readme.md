@@ -25,3 +25,46 @@ JobAutoApply/
 ├── credentials.json # API keys
 └── requirements.txt # Python dependencies
 ```
+
+## Core Functionality
+
+### 1. Intelligent Job Collection
+- Monitors Gmail for LinkedIn job alerts
+- Extracts and normalizes job posting URLs
+- Scrapes complete job details using Selenium
+
+### 2. Two-Stage Filtering System
+**Initial Filter:**
+- Hard filters by location (Madrid/EU)
+- Keyword-based title screening
+- Language detection (English/Spanish)
+
+**Advanced Filter:**
+- Semantic matching using TF-IDF vectors
+- Compares job descriptions against:
+  - Technical skills (Data/Telecom)
+  - Professional experience
+  - Role preferences
+- Cosine similarity threshold: 0.55
+
+### 3. Smart CV Generation
+- Dynamic profile selection (English/Spanish)
+- Keyword extraction from job descriptions
+- Category detection (Data vs Telecom roles)
+- Context-aware resume building:
+  - Highlights relevant skills
+  - Omits non-matching requirements
+  - Formats for ATS compatibility
+
+## Technical Highlights
+
+- **Multi-LLM Support**: OpenAI, Claude, and DeepSeek integration
+- **Vectorized Profiles**: Pinecone storage for semantic retrieval
+- **Bilingual Operation**: Parallel English/Spanish processing
+- **Modular Agents**: LangGraph-ready architecture
+
+## Setup Instructions
+
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
