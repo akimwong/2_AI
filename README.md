@@ -5,7 +5,7 @@ This repository contains AI-powered automation projects designed to solve real-w
 
 ### 1. Automated Job Application System
 
-<b>Short name:</b> [JobAutoApply](/projects/2_AIainNodes_Visual) </p>
+<b>Short name:</b> [JobAutoApply](/projects/1_JobAutoApply) </p>
 <b>Role:</b> Python/AI Developer </p>
 <b>Technologies:</b> Python, NLP, LLMs </p>
 <b>Tags:</b> Automation, Job Search, Resume Generation, AI Matching </p>
