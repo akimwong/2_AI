@@ -2,7 +2,7 @@
 
 ## Project Structure
 
-'''
+```
 JobAutoApply/
 ├── agents/
 │ ├── agent1_download.py # Downloads and filters job postings
@@ -23,4 +23,4 @@ JobAutoApply/
 │ └── profile_esp.json # Spanish professional profile
 ├── main.py # Orchestration script
 └── requirements.txt # Python dependencies
-'''
+```
