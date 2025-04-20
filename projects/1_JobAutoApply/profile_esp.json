@@ -1,0 +1,215 @@
+{
+    "skills": {
+        "data": [
+            "Análisis de Datos",
+            "Python",
+            "Pandas",
+            "NumPy",
+            "Scikit-learn",
+            "R",
+            "Minería de Datos",
+            "Aprendizaje Automático",
+            "SQL",
+            "MongoDB",
+            "Tableau",
+            "Git",
+            "AWS Cloud",
+            "Visualización de Datos",
+            "Ingeniería de Inteligencia Artificial",
+            "MS Office",
+            "Big Data"
+        ],
+        "telecom": [
+            "Redes de Telecomunicaciones",
+            "FTTH",
+            "Redes de Fibra Óptica",
+            "PON redes opticas pasivas",
+            "Gestión de Proyectos",
+            "Sistemas de Información Geográfica (GIS)",
+            "MicroStation",
+            "AutoCAD",
+            "Visio",
+            "OTDR",
+            "Medidor de Potencia Óptica",
+            "Planta Externa de Fibra Óptica",
+            "Telecomunicaciones",
+            "GIS (SmallWorld)",
+            "Fibra Óptica",
+            "Medidor de Potencia"
+        ]
+    },
+
+    "experience": [
+        {
+            "role": "Gestor de Proyectos y Analista de Datos",
+            "company": "CGM Telecomunicaciones",
+            "period": "2023 – Presente",
+            "description": [
+                "En mi rol actual, lidero y superviso la migración de circuitos de fibra óptica (principalmente Gigabit Ethernet y WDM) como parte del proyecto de Telefónica para desmantelar salas técnicas en toda España. Mi responsabilidad principal es coordinar equipos multidisciplinarios (estudio técnico, diseño de retirada, creación de órdenes de trabajo y ejecución en campo) y sincronizar trabajos nocturnos con técnicos de campo de planta externa e interna, así como con supervisores de tráfico. Aunque mi puesto no requiere explícitamente habilidades de Data Science, he aplicado activamente mis conocimientos en esta área para desarrollar herramientas que optimizan procesos y aumentan la eficiencia.\n\n"
+            ],
+            "key_achievements": [
+                {
+                    "title": "Coordinación de equipos y migración de circuitos de telecomunicaciones",
+                    "context": "Contribución a la estrategia de modernización de infraestructuras de Telefónica España mediante la eliminación de instalaciones técnicas redundantes",
+                    "action": "Coordinación de equipos multidisciplinarios (clasificación de circuitos, diseño de repliegues, ejecución en trabajos de campo de planta externa y planta interna, monitorización del estado de los servicios) para migrar circuitos de telecomunicaciones",
+                    "result": "Reubicación exitosa de circuitos en 5 centros técnicos principales con un 90% de éxito",
+                    "metrics": ["5 centros técnicos", "90% tasa de éxito"],
+                    "year": "2023 - Presente"
+                  },
+                  {
+                    "title": "Desarrollo de paneles de visualización de datos",
+                    "context": "Seguimiento de progreso del proyecto en tiempo real",
+                    "action": "Implementé dashboards con Python y R para generar informes automatizados",
+                    "result": "Reducción del tiempo de generación de informes en un 30% y mejor visibilidad del proyecto",
+                    "metrics": ["-30% tiempo informes"],
+                    "year": "2023 - Presente"
+                  },
+                  {
+                    "title": "Automatización de sistemas de informes y flujos de trabajo",
+                    "context": "Gestión de tareas y reporting periódico",
+                    "action": "Creé scripts que integran datos de Excel y envían notificaciones automáticas",
+                    "result": "Ahorro del 20% de tiempo en tareas manuales y mejora de la productividad",
+                    "metrics": ["-20% tiempo de tareas manuales"],
+                    "year": "2023 - Presente"
+                  },
+                  {
+                    "title": "Uso de modelos de lenguaje (LLM) para analizar datos complejos y automatizar tareas",
+                    "context": "Interpretación de inventarios y documentación variada",
+                    "action": "Entrené e integré LLMs para extraer y clasificar información no estructurada",
+                    "result": "Reducción del tiempo de toma de decisiones en un 25% y minimización de errores",
+                    "metrics": ["-25% tiempo decisiones", "-10% errores"],
+                    "year": "2023 - Presente"
+                  }
+            ]
+        },
+        {
+            "role": "Coordinador de Proyectos",
+            "company": "Lyntia Networks",
+            "period": "2021 – 2022",
+            "description": "Consolidar datos de despliegue, operación y finanzas para elaborar reportes semanales sobre la infraestructura de fibra óptica (Backhaul). Gestionar flujos de información entre equipos sin dependencia jerárquica, asegurando coherencia y transparencia en indicadores de operación, mantenimiento y situación financiera. Presentar hallazgos en Excel y PowerPoint, brindando a la dirección la información necesaria para la toma de decisiones.",
+            "key_achievements": [
+                {
+                    "title": "Fortalecimiento del pensamiento analítico y la narrativa de datos en la elaboración de reportes",
+                    "context": "Rol orientado a la gestión de información y comunicación con stakeholders de alto nivel",
+                    "action": "Diseñar y aplicar métodos de análisis de datos junto con narrativas visuales en Excel y PowerPoint, transformando información compleja en informes claros y atractivos",
+                    "result": "Mayor comprensión de los indicadores por parte de la dirección y toma de decisiones más ágil gracias a la claridad de los reportes",
+                    "metrics": ["-20% en tiempo de análisis", "+15% en retención de información en presentaciones"],
+                    "year": "2021 - 2022"
+                  }
+            ]
+        },
+        {
+            "role": "Responsable de Aseguramiento de Servicio",
+            "company": "Huawei Technologies",
+            "period": "2016 – 2021",
+            "description": "Coordinar la operación y mantenimiento de la red FTTH de Orange, gestionando tres equipos (incidencias técnicas, técnicos de campo y administración de inventarios) a nivel nacional. Asegurar la comunicación fluida entre todas las partes, el cumplimiento de SLAs/KPIs y la resolución proactiva de problemas operativos, reportando diariamente el estado de la red y las incidencias al cliente.",
+            "key_achievements": [
+                {
+                    "title": "Establecimiento de reuniones semanales y visualización de KPIs",
+                    "context": "Coordinación con el cliente para la operación y mantenimiento de la red FTTH",
+                    "action": "Introducir revisiones diarias con el cliente, presentando métricas clave (incidencias, tiempos de respuesta, cobertura) e identificando riesgos",
+                    "result": "Mayor transparencia en el estado del servicio y decisiones conjuntas más eficaces",
+                    "metrics": ["+10% alineación con el cliente", "-15% incidencias escaladas"],
+                    "year": "2016 - 2021"
+                  },
+                  {
+                    "title": "Optimización de la coordinación con equipos subcontratados",
+                    "context": "Supervisión de diversos equipos externos responsables de la operación y mantenimiento de la red",
+                    "action": "Implementar un seguimiento continuo de tareas y comunicación para corregir oportunamente inventarios físicos y lógicos",
+                    "result": "Menor retraso en la ejecución de labores y mejor coherencia de la información de red",
+                    "metrics": ["-20% retrasos en tareas", "+15% exactitud en inventarios"],
+                    "year": "2016 - 2021"
+                  },
+                  {
+                    "title": "Identificación y escalado de patrones de incidencias recurrentes",
+                    "context": "Operación de la red FTTH a nivel nacional con exigentes SLAs y alto volumen de incidencias",
+                    "action": "Analizar datos históricos para detectar patrones y coordinar acciones preventivas con los equipos",
+                    "result": "Reducción significativa en los tiempos de resolución y mayor cumplimiento de SLAs",
+                    "metrics": ["-25% tiempo de resolución", "+10% cumplimiento de SLA"],
+                    "year": "2016 - 2021"
+                  },
+                  {
+                    "title": "Estandarización de informes de desempeño",
+                    "context": "Consolidación de fuentes de datos operativos y financieros para la gestión de la red y su mantenimiento",
+                    "action": "Diseñar plantillas unificadas y procesos de reporte para volúmenes de incidencias, tiempos de atención y despliegue",
+                    "result": "Información coherente y fiable para la toma de decisiones, reduciendo esfuerzos manuales y duplicidades",
+                    "metrics": ["-30% tiempo de elaboración de informes", "+20% confiabilidad en la información"],
+                    "year": "2016 - 2021"
+                  }
+            ]
+        },
+        {
+            "role": "Ingeniero de Aseguramiento de Servicio",
+            "company": "Huawei Technologies",
+            "period": "2009 – 2016",
+            "description": "Responsable de gestionar el mantenimiento de la red de fibra óptica de planta externa de JAZZTEL y la infraestructura (energía y refrigeración) de los centros de datos, con un enfoque preventivo para minimizar fallos.",
+            "key_achievements": [
+              {
+                "title": "Reducción de fallos en la infraestructura de red",
+                "context": "Mantenimiento de planta externa y datacenters para asegurar continuidad del servicio",
+                "action": "Analizar datos de incidencias y definir rutinas preventivas en los equipos de energía y refrigeración",
+                "result": "Disminución en un 25% de las tasas de fallos y mayor estabilidad de la red",
+                "metrics": ["-25% fallos", "+10% disponibilidad de red"],
+                "year": "2009 – 2016"
+              },
+              {
+                "title": "Implementación de rutinas de mantenimiento preventivo",
+                "context": "Gestión proactiva de la infraestructura para reducir riesgos de avería",
+                "action": "Diseñar protocolos e intervalos de revisión basados en análisis histórico de incidencias",
+                "result": "Menor incidencia de problemas críticos y optimización de recursos de mantenimiento",
+                "metrics": ["-15% incidencias críticas", "+20% eficiencia de recursos"],
+                "year": "2009 – 2016"
+              }
+            ]
+        },
+        {
+            "role": "Gestor de Mantenimiento de Fibra Óptica de Planta Externa",
+            "company": "Jazz Telecom",
+            "period": "2004 – 2009",
+            "description": "Analizar datos de síntomas para diagnosticar fallos, coordinar recursos y asistir al personal de campo, recuperando el servicio lo antes posible.",
+            "key_achievements": [
+              {
+                "title": "Mejora en tiempos de recuperación del servicio",
+                "context": "Atención de incidencias en la red de fibra óptica de planta externa",
+                "action": "Centralizar y priorizar alertas según criticidad, asignando recursos de campo de forma ágil",
+                "result": "Reducción del 40% en el tiempo de recuperación y mayor satisfacción del cliente",
+                "metrics": ["-40% tiempo de recuperación", "+15% satisfacción"],
+                "year": "2004 – 2009"
+              },
+              {
+                "title": "Desarrollo de protocolos de diagnóstico de fallos",
+                "context": "Procesos de mantenimiento para identificar y aislar problemas técnicos",
+                "action": "Diseñar guías de diagnóstico y capacitar al personal en la detección temprana de incidencias",
+                "result": "Disminución de errores de diagnóstico y aceleración en la resolución de problemas",
+                "metrics": ["-20% errores de diagnóstico", "+25% velocidad de resolución"],
+                "year": "2004 – 2009"
+              }
+            ]
+        }
+    ],
+
+    "education": [
+        "Máster en Big Data y Business Analytics - Universidad Complutense de Madrid (2020 – 2021)",
+        "Máster en Gestión de Sistemas de Información y Telecomunicaciones - Universidad Politécnica de Madrid (1999 – 2000)",
+        "Diploma en Administración de Empresas - Universidad del Pacífico (Lima, Perú) (2002 – 2004)",
+        "Técnico Profesional en Electrotecnia Industrial - Instituto Superior Tecnológico TECSUP (Lima, Perú) (1989 – 1991)"
+    ],
+
+    "certifications": [
+        "AWS Cloud Practitioner (2021)",
+        "AWS Solution Architect Associate (2024)",
+        "AWS AI Practitioner (2024)"
+    ],
+
+    "languages": [
+        "Español (Nativo)",
+        "Inglés (B2)"
+    ],
+
+    "preferences": {
+        "location": ["Madrid", "Remoto"],
+        "contract_type": ["Tiempo completo", "Contrato permanente"],
+        "target_roles": ["Visualización de Datos", "Analista de Datos", "Ingeniero de IA", "Gestor de Proyectos de Telecomunicaciones"],
+        "preferred_industries": ["Telecomunicaciones", "Defensa", "Farmacéutica", "TI", "Otros"]
+    }
+}

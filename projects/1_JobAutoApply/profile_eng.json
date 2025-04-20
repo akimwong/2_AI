@@ -1,0 +1,215 @@
+{
+    "skills": {
+        "data": [
+            "Data Analysis",
+            "Python",
+            "Pandas",
+            "NumPy",
+            "Scikit-learn",
+            "R",
+            "Data Mining",
+            "Machine Learning",
+            "SQL",
+            "MongoDB",
+            "Tableau",
+            "Git",
+            "AWS Cloud",
+            "Data Visualization",
+            "Artificial Intelligence Engineering",
+            "MS Office",
+            "Big Data"
+        ],
+        "telecom": [
+            "Telecommunications Networks",
+            "FTTH",
+            "Fiber Optic Networks",
+            "PON (Passive Optical Networks)",
+            "Project Management",
+            "Geographic Information Systems (GIS)",
+            "MicroStation",
+            "AutoCAD",
+            "Visio",
+            "OTDR",
+            "Optical Power Meter",
+            "Outside Plant Fiber Optics",
+            "Telecommunications",
+            "GIS (SmallWorld)",
+            "Fiber Optics",
+            "Power Meter"
+        ]
+    },
+
+    "experience": [
+        {
+            "role": "Project Manager and Data Analyst",
+            "company": "CGM Telecomunicaciones",
+            "period": "2023 – Present",
+            "description": [
+                "In my current role, I lead and oversee the migration of fiber optic circuits (primarily Gigabit Ethernet and WDM) as part of Telefónica's project to dismantle technical rooms across Spain. My main responsibility is to coordinate multidisciplinary teams (technical study, withdrawal design, work order creation, and field execution) and synchronize night jobs with outside plant and inside field technicians, as well as traffic supervisors. Although my position does not explicitly require Data Science skills, I have actively applied my knowledge in this area to develop tools that optimize processes and increase efficiency.\n\n"
+            ],
+            "key_achievements": [
+                {
+                    "title": "Team coordination and telecommunications circuit migration",
+                    "context": "Contribution to Telefónica España's infrastructure modernization strategy by eliminating redundant technical facilities",
+                    "action": "Coordination of multidisciplinary teams (circuit classification, withdrawal design, external and internal plant field execution, service status monitoring) to migrate telecommunications circuits",
+                    "result": "Successful relocation of circuits in 5 main technical centers with an 85% success rate",
+                    "metrics": ["5 technical centers", "85% success rate"],
+                    "year": "2023 - Present"
+                  },
+                  {
+                    "title": "Development of data visualization dashboards",
+                    "context": "Real-time project progress tracking",
+                    "action": "Implemented dashboards with Python and R to generate automated reports",
+                    "result": "30% reduction in report generation time and improved project visibility",
+                    "metrics": ["-30% report time"],
+                    "year": "2023 - Present"
+                  },
+                  {
+                    "title": "Automation of reporting systems and workflows",
+                    "context": "Task management and periodic reporting",
+                    "action": "Created scripts integrating Excel data and sending automatic notifications",
+                    "result": "20% time savings in manual tasks and increased productivity",
+                    "metrics": ["-20% manual task time"],
+                    "year": "2023 - Present"
+                  },
+                  {
+                    "title": "Use of Language Models (LLMs) to analyze complex data and automate tasks",
+                    "context": "Interpretation of inventories and diverse documentation",
+                    "action": "Trained and integrated LLMs to extract and classify unstructured information",
+                    "result": "25% reduction in decision-making time and minimized errors",
+                    "metrics": ["-25% decision time", "-10% errors"],
+                    "year": "2023 - Present"
+                  }
+            ]
+        },
+        {
+            "role": "Project Coordinator",
+            "company": "Lyntia Networks",
+            "period": "2021 – 2022",
+            "description": "Consolidate deployment, operations, and financial data to produce weekly reports on fiber optic infrastructure (Backhaul). Manage information flows between teams without hierarchical dependency, ensuring coherence and transparency in operational, maintenance, and financial indicators. Present findings in Excel and PowerPoint, providing management with the necessary information for decision-making.",
+            "key_achievements": [
+                {
+                    "title": "Strengthening analytical thinking and data storytelling in report preparation",
+                    "context": "Role focused on information management and communication with high-level stakeholders",
+                    "action": "Design and apply data analysis methods along with visual narratives in Excel and PowerPoint, transforming complex information into clear and engaging reports",
+                    "result": "Better understanding of indicators by management and faster decision-making due to report clarity",
+                    "metrics": ["-20% analysis time", "+15% information retention in presentations"],
+                    "year": "2021 - 2022"
+                  }
+            ]
+        },
+        {
+            "role": "Service Assurance Manager",
+            "company": "Huawei Technologies",
+            "period": "2016 – 2021",
+            "description": "Coordinate the operation and maintenance of Orange's FTTH network, managing three teams (technical incidents, field technicians, and inventory administration) nationwide. Ensure smooth communication between all parties, compliance with SLAs/KPIs, and proactive resolution of operational issues, reporting daily on network status and incidents to the client.",
+            "key_achievements": [
+                {
+                    "title": "Establishment of weekly meetings and KPI visualization",
+                    "context": "Coordination with the client for FTTH network operation and maintenance",
+                    "action": "Introduce daily reviews with the client, presenting key metrics (incidents, response times, coverage) and identifying risks",
+                    "result": "Greater transparency in service status and more effective joint decisions",
+                    "metrics": ["+10% alignment with client", "-15% escalated incidents"],
+                    "year": "2016 - 2021"
+                  },
+                  {
+                    "title": "Optimization of coordination with subcontractor teams",
+                    "context": "Supervision of various external teams responsible for network operation and maintenance",
+                    "action": "Implement continuous task tracking and communication to correct physical and logical inventories in a timely manner",
+                    "result": "Reduced delays in task execution and improved network information coherence",
+                    "metrics": ["-20% task delays", "+15% inventory accuracy"],
+                    "year": "2016 - 2021"
+                  },
+                  {
+                    "title": "Identification and escalation of recurring incident patterns",
+                    "context": "Operation of nationwide FTTH network with demanding SLAs and high incident volume",
+                    "action": "Analyze historical data to detect patterns and coordinate preventive actions with teams",
+                    "result": "Significant reduction in resolution times and higher SLA compliance",
+                    "metrics": ["-25% resolution time", "+10% SLA compliance"],
+                    "year": "2016 - 2021"
+                  },
+                  {
+                    "title": "Standardization of performance reports",
+                    "context": "Consolidation of operational and financial data sources for network and maintenance management",
+                    "action": "Design unified templates and reporting processes for incident volumes, response times, and deployment",
+                    "result": "Coherent and reliable information for decision-making, reducing manual efforts and duplication",
+                    "metrics": ["-30% report preparation time", "+20% information reliability"],
+                    "year": "2016 - 2021"
+                  }
+            ]
+        },
+        {
+            "role": "Service Assurance Engineer",
+            "company": "Huawei Technologies",
+            "period": "2009 – 2016",
+            "description": "Responsible for managing the maintenance of JAZZTEL's external fiber optic plant network and data center infrastructure (power and cooling), with a preventive approach to minimize failures.",
+            "key_achievements": [
+              {
+                "title": "Reduction in network infrastructure failures",
+                "context": "Maintenance of external plant and data centers to ensure service continuity",
+                "action": "Analyze incident data and define preventive routines for power and cooling equipment",
+                "result": "25% decrease in failure rates and greater network stability",
+                "metrics": ["-25% failures", "+10% network availability"],
+                "year": "2009 – 2016"
+              },
+              {
+                "title": "Implementation of preventive maintenance routines",
+                "context": "Proactive infrastructure management to reduce breakdown risks",
+                "action": "Design protocols and review intervals based on historical incident analysis",
+                "result": "Fewer critical incidents and optimization of maintenance resources",
+                "metrics": ["-15% critical incidents", "+20% resource efficiency"],
+                "year": "2009 – 2016"
+              }
+            ]
+        },
+        {
+            "role": "Outside Plant Fiber Optic Maintenance Manager",
+            "company": "Jazz Telecom",
+            "period": "2004 – 2009",
+            "description": "Analyze symptom data to diagnose failures, coordinate resources, and assist field personnel, restoring service as quickly as possible.",
+            "key_achievements": [
+              {
+                "title": "Improvement in service recovery times",
+                "context": "Incident management in external fiber optic network",
+                "action": "Centralize and prioritize alerts based on criticality, assigning field resources agilely",
+                "result": "40% reduction in recovery time and higher customer satisfaction",
+                "metrics": ["-40% recovery time", "+15% satisfaction"],
+                "year": "2004 – 2009"
+              },
+              {
+                "title": "Development of failure diagnosis protocols",
+                "context": "Maintenance processes to identify and isolate technical issues",
+                "action": "Design diagnostic guides and train personnel in early incident detection",
+                "result": "Reduction in diagnostic errors and faster problem resolution",
+                "metrics": ["-20% diagnostic errors", "+25% resolution speed"],
+                "year": "2004 – 2009"
+              }
+            ]
+        }
+    ],
+
+    "education": [
+        "Master's in Big Data and Business Analytics - Complutense University of Madrid (2020 – 2021)",
+        "Master's in Telecommunications and Information Systems Management - Polytechnic University of Madrid (1999 – 2000)",
+        "Diploma in Business Administration - University of the Pacific (Lima, Peru) (2002 – 2004)",
+        "Professional Technician in Industrial Electrotechnics - TECSUP Technological Institute (Lima, Peru) (1989 – 1991)"
+    ],
+
+    "certifications": [
+        "AWS Cloud Practitioner (2021)",
+        "AWS Solution Architect Associate (2024)",
+        "AWS AI Practitioner (2024)"
+    ],
+
+    "languages": [
+        "Spanish (Native)",
+        "English (B2)"
+    ],
+
+    "preferences": {
+        "location": ["Madrid", "Remote"],
+        "contract_type": ["Full-time", "Permanent contract"],
+        "target_roles": ["Data Visualization", "Data Analyst", "AI Engineer", "Telecommunications Project Manager"],
+        "preferred_industries": ["Telecommunications", "Defense", "Pharmaceutical", "IT", "Others"]
+    }
+}
