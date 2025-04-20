@@ -1,25 +1,15 @@
-# 2_AI
-Currently practicing and improving skills in the playground; no completed projects yet.
-
 ## Overview
-In the context of project management, <b>Excel is not a static document, it is a living entity that evolves over time.</p></b>
-
-It grows as new data is added by multiple contributors, and the information entered today often triggers actions or dependencies that unfold in the future. Some data takes time to arrive, and its delayed entry can create bottlenecks or slow down progress in other areas.</p>
-
-The first projects in this repository contain code used to:</p>
-I. Visualize information in a graphical way directly from one or more Excel spreadsheets.<br>
-II. Validate, extract, and load Excel data into a MongoDB, with timestamps and record history.<br>
-III. Perform actions or analyses using the information stored in the database.<br>
+This repository contains AI-powered automation projects designed to solve real-world problems. Each project combines cutting-edge technologies with practical applications to create intelligent systems that work for you.
 
 ## Projects
 
-### 1. Excel Data Visualization for main nodes
+### 1. Automated Job Application System
 
-<b>Short name:</b> [MainNodes_Visual](/projects/1_MainNodes_Visual) </p>
-<b>Role:</b> Python Developer </p>
-<b>Technologies:</b> Python, Excel </p>
-<b>Tags:</b> Data Visualization, Project Monitoring, Heatmap Graph </p>
-<b>Key Tools:</b> Python, CustomTkinter, Microsoft Excel </p>
-<b>Packaging/Distribution:</b> pyinstaller </p>
+<b>Short name:</b> [JobAutoApply](/projects/2_AIainNodes_Visual) </p>
+<b>Role:</b> Python/AI Developer </p>
+<b>Technologies:</b> Python, NLP, LLMs </p>
+<b>Tags:</b> Automation, Job Search, Resume Generation, AI Matching </p>
+<b>Key Tools:</b> Python, LangChain, Pinecone, Deepseek, Anthropic, OpenAI, Selenium </p>
+<b>Packaging/Distribution:</b>  </p>
 <b>Description:</b> 
-Developed a Python dashboard that aggregates data from multiple Excel files and translates complex task metrics into clear, actionable insights. Its intuitive CustomTkinter interface spotlights progress and bottlenecks while tracking milestone achievements, empowering project managers to centralize information and make fast, informed decisions.
+Developed an intelligent system that automates job applications by processing incoming job postings, filtering them through semantic analysis against my professional profile, and generating tailored resumes for each relevant opportunity. The solution combines web scraping, NLP techniques, and LLM-powered content generation to streamline the job search process while maintaining high relevance and personalization.
