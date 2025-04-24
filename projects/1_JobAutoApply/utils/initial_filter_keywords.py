@@ -56,6 +56,8 @@ accepted_titles = [
     "fiber optic",
     "telecomunicaciones",
     "telecommunications",
+    "big data",
+    "business intelligence",
 ]
 
 # Lista de palabras clave positivas (si aparecen en el título o descripción, la oferta es aceptada)
@@ -70,4 +72,6 @@ positive_keywords = [
     "fiber optic",
     "telecomunicaciones",
     "telecommunications",
+    "big data",
+    "business intelligence",
 ]
