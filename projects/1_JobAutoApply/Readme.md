@@ -49,9 +49,9 @@ JobAutoApply/
 
 ### 3. Smart CV Generation
 - Dynamic profile selection (English/Spanish)
-- Keyword extraction from job descriptions
-- Category detection (Data vs Telecom roles)
-- Context-aware resume building:
+- Keyword extraction from job descriptions <- LLM
+- Category detection (Data vs Telecom roles) <- LLM
+- Context-aware resume building:   <- LLM
   - Highlights relevant skills
   - Omits non-matching requirements
   - Formats for ATS compatibility
