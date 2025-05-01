@@ -45,7 +45,7 @@ JobAutoApply/
   - Technical skills (Data/Telecom)
   - Professional experience
   - Role preferences
-- Cosine similarity threshold: 0.55
+- Cosine similarity threshold: 0.55 <- VectoDB
 
 ### 3. Smart CV Generation
 - Dynamic profile selection (English/Spanish)
